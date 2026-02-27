@@ -2,10 +2,10 @@ export const serviceItems = [
   {
     logo: "/logo/logo.png",
     maintext:
-      "With 15 years of experience in the hospitality industry, FIDI Hospitality is proud to open the doors to our historic venue locations and places we are honored to call home.<br/><br/>We believe that love begins at home, and your celebration should feel just as meaningful. To toast to you and the love you share, FIDI Hospitality is pleased to offer a complimentary Champagne Wall when you host your event at any of our venue locations.<br/><br/>Celebrate in a setting rich with history, romance, and timeless charm.",
+      "With 15 years of experience in the hospitality industry, FIDI Hospitality is proud to open the doors to our historic venue locations and places we are honored to call home.<br/><br/>Every event deserves a setting that leaves a lasting impression. Whether you're planning a wedding, milestone celebration, corporate function, or private gathering, our venues offer a unique backdrop designed to elevate every detail of your experience.<br/><br/>When you host your event with FIDI Hospitality, you'll enjoy a complimentary Champagne Wall at any of our locations, a stylish enhancement that adds an elegant touch to your celebration. Experience an event space rich in history, character, and timeless charm.",
     ctaText:
-      "January 5 through March 1, Fidi Hospitality is proud to support iHeart events.",
-    ctaButtonText: "Interested?",
+      "From March 2 through June 1, FIDI Hospitality proudly presents our Spring Into Celebrating seasonal offering..",
+    ctaButtonText: "Ready to begin planning your event with us?",
     buttonLink: "https://www.fidihospitality.com/#!/contactus",
     section: [
       {
@@ -13,9 +13,10 @@ export const serviceItems = [
         description:
           "Host your next corporate event in one of Downtown Manhattan's most iconic landmarks. Located in the historic former Bank of New York & Trust Company Building, 48 Wall Street spans three distinctive floors featuring soaring ceilings and preserved architectural details. This prestigious venue blends timeless elegance with modern functionality, creating an impressive setting for high profile gatherings, galas, and celebrations.",
         images: [
-          "/service-photo/48 Wall/1.png",
+          "/service-photo/48 Wall/1.jpg",
           "/service-photo/48 Wall/2.jpg",
           "/service-photo/48 Wall/3.jpg",
+          "/service-photo/48 Wall/4.jpg",
         ],
         buttonText: "Learn More",
         buttonLink: "https://www.48wallnyc.com/",
@@ -38,9 +39,9 @@ export const serviceItems = [
   {
     logo: "/logo/logo_5.svg",
     maintext:
-      "With 30 years of expertise in the event and creative design industry, MME Worldwide delivers industry leading services including audio visual production, staging and lighting, event rentals, themed props, and floral design services.<br/><br/>For a limited time, when you book any package over $20,000, MMEworld is pleased to include ten complimentary 5×5 floral centerpieces. Our gift to you because love is in the air, and every great event deserves a beautiful finishing touch.<br/><br/>Let us help you create an atmosphere that is unforgettable.",
+      "With 30 years of expertise in the event and creative design industry, MME Worldwide delivers industry leading services including audio visual production, staging and lighting, event rentals, themed props, and floral design services.<br/><br/>For a limited time, when you secure any package exceeding $20,000, MME Worldwide is pleased to include four complimentary in-house spring-themed props to elevate your event design.<br/><br/>Spring is the season to transform your space and bring your vision to life. From concept to execution, our team creates immersive, customized themes that turn every celebration into a fully realized experience.<br/><br/>Let us help you create an atmosphere that is unforgettable.",
     ctaText:
-      "January 5 through March 1, MME World is proud to support iHeart events.",
+      "March 2 through June 1, MME Worldwide proudly supports Spring into Celebration.",
     ctaButtonText: "Interested?",
     buttonLink: "https://www.mmeink.com/contact-us.html",
     section: [
@@ -49,9 +50,9 @@ export const serviceItems = [
         description:
           "MME Worldwide provides an extensive collection of event rentals and themed props designed to transform corporate venues into immersive environments. From refined furniture and décor to specialty accents and scenic elements, our inventory supports branded, cinematic, and fully customized experiences. Backed by expert planning and execution, we ensure every detail aligns seamlessly with your vision.",
         images: [
-          "/service-photo/MME Event Rentals/1.jpeg",
-          "/service-photo/MME Event Rentals/2.jpeg",
-          "/service-photo/MME Event Rentals/3.jpeg",
+          "/service-photo/MME Event Rentals/1.jpg",
+          "/service-photo/MME Event Rentals/2.jpg",
+          "/service-photo/MME Event Rentals/3.jpg",
         ],
         buttonText: "Learn More",
         buttonLink: "https://www.eventdecorrentals.com/",
@@ -87,9 +88,9 @@ export const serviceItems = [
   {
     logo: "/logo/logo_4.png",
     maintext:
-      "With 15 years of expertise in food and beverage, Tardi's Catering has proudly delivered elite culinary experiences for both corporate and private events. From breakfasts and business lunches to conferences, seated dinners, cocktail receptions, and in office catering, we bring exceptional quality to every occasion.<br/><br/>For a limited time, when you book any catering package over $15,000, Tardi's Catering is pleased to offer a complimentary hot cocoa cart plus one additional food cart. Our way of adding warmth, flavor, and an unforgettable touch to your event.",
+      "With 15 years of expertise in food and beverage, Tardi’s Catering proudly delivers elevated culinary experiences for both corporate and private events. From executive breakfasts and business luncheons to conferences, seated dinners, cocktail receptions, and in-office catering, we bring exceptional quality and service to every occasion.<br/><br/>For a limited time, when you reserve any catering package exceeding $15,000, Tardi’s Catering is pleased to include a complimentary Lemonade Stand and one Cotton Candy Cart, our way of adding a refreshing twist and a memorable touch to your event.",
     ctaText:
-      "January 5 through March 1, Tardi's Catering is proud to support iHeart events.",
+      "From March 2 through June 1, Tardi’s Catering is proud to support Spring into Celebrating.",
     ctaButtonText: "Interested?",
     buttonLink: "https://www.tardiscatering.com/contacts/",
     section: [
@@ -111,9 +112,9 @@ export const serviceItems = [
     logo: "/logo/logo_6.svg",
     logoHeight: "h-8 sm:h-10 lg:h-14",
     maintext:
-      "With 30 years in the entertainment industry, Mikey Mike Entertainment has delivered unforgettable experiences for corporate and private events worldwide.<br/><br/>For a limited time, when you book any entertainment package over $5,000, you will receive a complimentary LVM by phone and a custom photo script book on us.<br/><br/>This exclusive offer allows you to capture, relive, and share your memories for a lifetime.",
+      "With 30 years in the entertainment industry, Mikey Mike Entertainment has delivered unforgettable experiences for corporate and private events worldwide.<br/><br/>For a limited time, when you book any entertainment package exceeding $6,500, you will receive a complimentary LVM phone service along with a custom photo script book, our gift to you.<br/><br/>This exclusive offer allows you to capture, relive, and share your memories for a lifetime.",
     ctaText:
-      "January 5 through March 1, Mikey Mike Entertainment is proud to support iHeart events.",
+      "From March 2 through June 1, Mikey Mike Entertainment is proud to support Spring into Celebration.",
     ctaButtonText: "Interested?",
     buttonLink: "https://www.mikeymikeevents.com/contact",
     section: [
@@ -135,9 +136,9 @@ export const serviceItems = [
     logo: "/logo/logo_3.svg",
     logoHeight: "h-12 sm:h-14 lg:h-16",
     maintext:
-      "With over 30 years of experience in the event industry, we are passionate about sharing our creative expertise. When you sign on with any of our creative fabrication services, you will receive two complimentary 2D layout designs. Our way of saying thank you for partnering with us.",
+      "With over 30 years of experience in the event industry, we are proud to bring our creative expertise and passion for design to every project. When you engage any of our creative fabrication services, you will receive two complimentary 2D layout designs, our way of saying thank you for partnering with us.",
     ctaText:
-      "January 5 through March 1, Creative Partners is proud to support iHeart events.",
+      "From March 2 through June 1, Creative Partners is proud to support Spring into Celebrating, helping you transform your vision into beautifully executed events.",
     ctaButtonText: "Interested?",
     buttonLink: "https://www.mmeinksouth.com/",
     section: [
